@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319391247998",
+    "firebase_url": "https://novus-dev-c996d.firebaseio.com",
+    "project_id": "novus-dev-c996d",
+    "storage_bucket": "novus-dev-c996d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319391247998:android:bb7ff665c8d8e9d732f22f",
+        "android_client_info": {
+          "package_name": "com.novus.covidinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319391247998-021d6ij42l14f24l2qfmjoag8dsg4viv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVyA01GF5-eHGzTDXlrFeCHl6_All6wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319391247998-021d6ij42l14f24l2qfmjoag8dsg4viv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
